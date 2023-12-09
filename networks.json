@@ -1,0 +1,8 @@
+{
+  "goerli": {
+    "Provider": {
+      "address": "0xFD8E0bF9031b95Eb63dC49E4A9317E129390C733",
+      "startBlock": 10184616
+    }
+  }
+}
